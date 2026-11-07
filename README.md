@@ -1,4 +1,4 @@
-# iyf-s12-week-03-pair-Wesala-crypto
+# iyf-s12-week-03-pair-Wesala-crypto(Faith)
 IYF Season 12 Week 3 — Pair Collaboration Lab
 # Week 3 Pair Programming Project
 
